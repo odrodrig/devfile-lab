@@ -77,13 +77,13 @@
 
 1. For *Workspace Name* enter **node-workspace**.
 
-1. For the *URL of devfile* box in the *Devfile* section enter **https://raw.githubusercontent.com/odrodrig/devfile-lab/master/devfile.yaml**
+1. For the *URL of devfile* box in the *Devfile* section enter **https://raw.githubusercontent.com/odrodrig/nodejs-ex/master/devfile.yaml**
 
 1. Click on **Create and Open** at the bottom of the page. The button might be hidden so you might need to scroll down to see it.
 
     The workspace will take a minute or two to create so let's get our own copy of the code that we will be using for the rest of the lab.
 
-1. In a new browser window, navigate to **https://github.com/odrodrig/devfile-lab** and click on the **Fork** button at the top right of the page.
+1. In a new browser window, navigate to **https://github.com/odrodrig/nodejs-ex** and click on the **Fork** button at the top right of the page.
 
 1. Once you are taken to your own repo, look for a green button that says **Code** on the right side of the page and click on it.
 
